@@ -14,8 +14,14 @@ The museum featured a fully-functioning Enigma Machine and actively encouraged p
 
 Recently, the Enigma Machine has moved up the pop-culture food chain - rising in tandem with Alan Turing, due to his contributions in the Allies efforts in cracking 
 
+I graduated college 
+
+later found myself continuing my education at the Turing School of Software and Design - and was delighted to discover that one of the earliest projects in the program was the creation of a program that functioned as a rudimentary form of the Enigma!
+
+
+Poles as recommended reading:
+
 Rarely featured are the efforts of the team that made the initial breakthrough
 
 No one country or team broke the Enigma, rather, it was the concerted efforts of many individuals
-
 
