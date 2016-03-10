@@ -8,20 +8,8 @@ The [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine#Electrical_pat
 
 At first glance, it appears as a simple, portable, rudimentary typewriter - but, instead of printing out letters, the machine encrypts messages on a per-character basis to provide secure communications. A user would type their message in their native tongue and, as they depressed a given key, a different character on a key-map before them would light up, letting them know the matching encoded character. 
 
-This structure is a basic substitution cipher, nothing new to the world of cryptology - but, what differentiated the Enigma Machine was that with each key-press, one of the 7 (or more) rotors housed within the machine would turn - creating an ever shifting substitution cipher that was notoriously hard to crack.
+This structure is a basic substitution cipher, nothing new to the world of cryptology - but, what differentiated the Enigma was that with each key-press, one of the 7 (or more) rotors housed within the machine would turn - creating an ever shifting substitution cipher that was notoriously hard to crack.
 
-The museum featured a fully-functioning Enigma Machine and actively encouraged patrons to encrypt their own messages, and I was tasked to reset the plugboard (an element of the machine that controlled the default encryption settings).
+Recently, the Enigma has moved up the pop-culture food chain - after being featured prominently in the Alan Turing biopic, the Imitation Game. And while Turing made fantastic contributions, no one country or team broke the Enigma, rather, it was the concerted efforts of many individuals. Rarely featured are the efforts of [Marian Rejewski](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma#Polish_breakthrough) and his team of Polish mathematicians who made the first great breakthrough that allowed for later progress. The British Bombe, developed by Turing for the British Government to decrypt Enigma ciphers, was based on the Poles’ own machine, the _bomba kryptologiczna_ (“cryptologic bomb”) in both name and basic functionality.
 
-Recently, the Enigma Machine has moved up the pop-culture food chain - rising in tandem with Alan Turing, due to his contributions in the Allies efforts in cracking 
-
-I graduated college 
-
-later found myself continuing my education at the Turing School of Software and Design - and was delighted to discover that one of the earliest projects in the program was the creation of a program that functioned as a rudimentary form of the Enigma!
-
-
-Poles as recommended reading:
-
-Rarely featured are the efforts of the team that made the initial breakthrough
-
-No one country or team broke the Enigma, rather, it was the concerted efforts of many individuals
-
+I’ve since graduated college, and now find myself continuing my education at the Turing School of Software and Design - and was delighted to discover that one of the earliest projects assigned is a rudimentary implementation of the Enigma.
