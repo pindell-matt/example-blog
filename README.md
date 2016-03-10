@@ -1,5 +1,7 @@
 # Breaking the Enigma Machine
 
+[The Enigma Machine](https://theromanroad.files.wordpress.com/2013/01/2009-09-25_3946.jpg)
+
 During the summer between Junior and Senior year of college, I was privliedged to have the experience of interning at the National Cryptologic Museum at Ft. Meade in Maryland. Tucked away in a converted hotel beside the National Security Agency, the National Cryptologic Museum is a little known treasure - most often eclipsed by the more well known (and equally excellent) free museum options in the D.C. region - even as a History Major in Maryland, I had never heard about it's existence until mere months before applying for the internship.
 
 Over the course of my time at the museum, I learned about the history of cryptology, provided guided tours, and assisted off-site presentations that featured some of the museums many assets. One of the shining exhibits both in-museum and at those off-site presentations was the Enigma Machine.
