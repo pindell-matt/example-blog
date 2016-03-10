@@ -14,5 +14,4 @@ Recently, the Enigma has moved up the pop-culture food chain - after being featu
 
 I’ve since graduated college, and now find myself continuing my education at the Turing School of Software and Design - and was delighted to discover that one of the earliest projects assigned is a rudimentary implementation of the Enigma.
 
-
 ![Alt text](https://theromanroad.files.wordpress.com/2013/01/2009-09-25_3946.jpg)
