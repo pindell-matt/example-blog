@@ -12,6 +12,6 @@ This structure is a basic substitution cipher, nothing new to the world of crypt
 
 Recently, the Enigma has moved up the pop-culture food chain - after being featured prominently in the Alan Turing biopic, the Imitation Game. And while Turing made fantastic contributions, no one country or team broke the Enigma, rather, it was the concerted efforts of many individuals. Rarely featured are the efforts of [Marian Rejewski](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma#Polish_breakthrough) and his team of Polish mathematicians who made the first great breakthrough that allowed for later progress. The British Bombe, developed by Turing for the British Government to decrypt Enigma ciphers, was based on the Poles’ own machine, the _bomba kryptologiczna_ (“cryptologic bomb”) in both name and basic functionality.
 
-The breaking of the Enigma is an exciting story with a myriad of twists and a menagerie of players.
+[wrap up, Enigma in pop culture]
 
 ![Alt text](https://theromanroad.files.wordpress.com/2013/01/2009-09-25_3946.jpg)
